@@ -10,6 +10,7 @@
             <select name="menu">
                 <option>Nasi Lemak</option>
                 <option>Roti Canai</option>
+                <option>Nasi Ayam</option>
             </select><br>
             <button type="submit">Tempah</button>
         </form>
